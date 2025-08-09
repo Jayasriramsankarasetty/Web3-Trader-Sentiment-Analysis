@@ -1,4 +1,4 @@
-# Web3 Trader Behavior vs. Market Sentiment Analysis
+# Bitcoin Trader Behavior vs. Market Sentiment Analysis
 
 ## 📂 Assignment Overview
 This repository contains a data science project analyzing the relationship between trader behavior on the Hyperliquid platform and the broader market sentiment, as measured by the Fear & Greed Index. The objective is to identify hidden trends in profitability, risk, and volume that could inform smarter trading strategies.
